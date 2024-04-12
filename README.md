@@ -1,5 +1,9 @@
 # Project-4
 Project 4
+
+[output](H_barchart.png)
+
+
 ## Project Participants
  * Byron De Leon
  * Navdeep Kaur
