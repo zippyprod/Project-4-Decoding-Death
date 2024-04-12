@@ -1,7 +1,7 @@
 # Project-4
 Project 4
 
-[output](H_barchart.png)
+[output](dia-de-los-muertos-traditional.jpg)
 
 
 ## Project Participants
