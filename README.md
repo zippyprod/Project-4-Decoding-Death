@@ -1,10 +1,11 @@
 # Project-4
 Project 4
 
-[output](dia-de-los-muertos-traditional.jpg)
+![output](dia-de-los-muertos-traditional.jpg)
 
 
 ## Project Participants
+ * Ian Lee
  * Byron De Leon
  * Navdeep Kaur
  * Paul Ku
@@ -18,12 +19,5 @@ Your project must be powered by a dataset with at least 100 records.
 You must use at least two of the following:
 Python Pandas
 Python Matplotlib
-HTML/CSS/Bootstrap
-JavaScript Plotly
-JavaScript Leaflet
-SQL Database
-MongoDB Database
-Google Cloud SQL
-Amazon AWS
 Tableau
-For this project, you can focus your efforts within a specific industry
+For this project,we focused our efforts within a specific heathcare industry regrarding causes of deaths.
