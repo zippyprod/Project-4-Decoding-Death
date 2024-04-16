@@ -13,7 +13,7 @@ Project 4
 
 For Project 4, our team worked with machine learning (ML) with the other technologies we’ve learned solve, analyze, and visualize a project decodeding opensource information to discover a problem worth solving, analyzing, or visualizing.
 
-## Please visit our interactive Tableau Visiualization 
+## Please visit our interactive Tableau Visualization 
 * [Click Here to Visit Tableau](https://public.tableau.com/app/profile/navdeep.kaur6193/viz/DecodingDeath/DecodingDeath)
 
 
