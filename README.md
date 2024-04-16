@@ -13,6 +13,11 @@ Project 4
 
 For Project 4, our team worked with machine learning (ML) with the other technologies we’ve learned solve, analyze, and visualize a project decodeding opensource information to discover a problem worth solving, analyzing, or visualizing.
 
+## Please visit our interactive Tableau Visiualization 
+* [Click Here to Visit Tableau](https://public.tableau.com/app/profile/navdeep.kaur6193/viz/DecodingDeath/DecodingDeath)
+
+
+
 ###	Decoding Death
 
 ## Our group project attempts to analize weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the total number of deaths based on various features like year, month, and jurisdiction of occurrence to predict the most likely causes of death in each state for 2024.
