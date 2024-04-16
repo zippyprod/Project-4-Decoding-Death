@@ -22,7 +22,9 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 
 ### Our group project attempts to analize weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the total number of deaths based on various features like year, month, and jurisdiction of occurrence to predict the most likely causes of death in each state for 2024.
 
-* Our Group stared by working with a Python script using pandas for data manipulation and scikit-learn for machine learning tasks, particularly regression analysis. 
+* Our Group stared by working with a Python script using pandas for data manipulation and scikit-learn for machine learning tasks, particularly regression analysis.
+  
+* ![output](image1.png)
 
 # Here's a breakdown of what's happening:
 
