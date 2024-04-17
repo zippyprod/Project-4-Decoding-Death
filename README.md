@@ -1,6 +1,6 @@
 
 # Project-4
-Project 4
+## DECODING DEATH
 
 ![output](dia-de-los-muertos-traditional.jpg)
 - [Project-4](#project-4)
