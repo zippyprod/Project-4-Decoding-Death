@@ -6,7 +6,6 @@ Project 4
 - [Project-4](#project-4)
   - [Project Participants](#project-participants)
   - [Please visit our interactive Tableau Visualization](#please-visit-our-interactive-tableau-visualization)
-    - [Decoding Death](#decoding-death)
 - [Here's a breakdown of what's happening:](#heres-a-breakdown-of-whats-happening)
     - [The data was processed with the following steps:](#the-data-was-processed-with-the-following-steps)
 - [Dependecies](#dependecies)
