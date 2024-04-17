@@ -51,7 +51,7 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 *	One-hot encoding was performed on the "Jurisdiction of Occurrence" column to encode the categorical variables.
 
 
-# Dependecies
+## Dependecies
 *	**Scikit-learn** was used to standardize the numerical feature
 
 *	The dataset was split the into training and testing sets.
