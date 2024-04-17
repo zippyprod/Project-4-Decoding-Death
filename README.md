@@ -31,7 +31,7 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 
 ###	Decoding Death
 
-* Our group project attempts to analize weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the total number of deaths based on various features like year, month, and jurisdiction of occurrence to predict the most likely causes of death in each state for 2024.
+* Our group project attempts to analize weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the total number of deaths based on various features like year, and jurisdiction of occurrence to predict the most likely causes of death in each state for 2024.
 
 * Our Group stared by working with a Python script using pandas for data manipulation and scikit-learn for machine learning tasks, particularly regression analysis.
   
@@ -49,12 +49,13 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 *	Handling Missing Values: You've printed the count of missing values in the aggregated dataset.
 
 *	One-hot encoding was performed on the "Jurisdiction of Occurrence" column to encode the categorical variables.
-
+*	The dataset was split the into training and testing sets.
 
 ## Dependecies
-*	**Scikit-learn** was used to standardize the numerical feature
+- Python Libraries: pandas, numpy, scikit-learn
+- Make sure to install these dependencies using the following command:
+*     pip install pandas numpy  matplotlib scikit-learn
 
-*	The dataset was split the into training and testing sets.
 
 ###	Model Training and Evaluation:
 
