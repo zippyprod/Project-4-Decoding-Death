@@ -2,7 +2,7 @@
 # Project-4
 Project 4
 
-![output](dia-de-los-muertos-traditional.jpg)- [Project-4](#project-4)
+![output](dia-de-los-muertos-traditional.jpg)
 - [Project-4](#project-4)
   - [Project Participants](#project-participants)
   - [Please visit our interactive Tableau Visualization](#please-visit-our-interactive-tableau-visualization)
