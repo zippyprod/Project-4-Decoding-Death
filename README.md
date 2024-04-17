@@ -1,7 +1,19 @@
+
 # Project-4
 Project 4
 
-![output](dia-de-los-muertos-traditional.jpg)
+![output](dia-de-los-muertos-traditional.jpg)- [Project-4](#project-4)
+- [Project-4](#project-4)
+  - [Project Participants](#project-participants)
+  - [Please visit our interactive Tableau Visualization](#please-visit-our-interactive-tableau-visualization)
+    - [Decoding Death](#decoding-death)
+- [Here's a breakdown of what's happening:](#heres-a-breakdown-of-whats-happening)
+    - [The data was processed with the following steps:](#the-data-was-processed-with-the-following-steps)
+- [Dependecies](#dependecies)
+    - [Model Training and Evaluation:](#model-training-and-evaluation)
+    - [Data Sources](#data-sources)
+
+
 
 
 ## Project Participants
@@ -20,7 +32,7 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 
 ###	Decoding Death
 
-### Our group project attempts to analize weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the total number of deaths based on various features like year, month, and jurisdiction of occurrence to predict the most likely causes of death in each state for 2024.
+* Our group project attempts to analize weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the total number of deaths based on various features like year, month, and jurisdiction of occurrence to predict the most likely causes of death in each state for 2024.
 
 * Our Group stared by working with a Python script using pandas for data manipulation and scikit-learn for machine learning tasks, particularly regression analysis.
   
@@ -39,6 +51,8 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 
 *	One-hot encoding was performed on the "Jurisdiction of Occurrence" column to encode the categorical variables.
 
+
+# Dependecies
 *	**Scikit-learn** was used to standardize the numerical feature
 
 *	The dataset was split the into training and testing sets.
@@ -49,4 +63,6 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 Later, you've performed hyperparameter tuning using grid search (GridSearchCV) to find the best hyperparameters for the decision tree regressor model.
 
 * Finally, we trained another decision tree regression model with the best hyperparameters found from grid search and evaluated its performance on the testing data.
+
+### Data Sources
 
