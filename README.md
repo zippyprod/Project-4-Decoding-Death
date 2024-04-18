@@ -60,3 +60,6 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 * Finally, we trained another decision tree regression model with the best hyperparameters found from grid search and evaluated its performance on the testing data.
 
 ### Data Sources
+Data is gathered from the Centers for Disease Contorl and Prevention at the link below:
+
+https://data.cdc.gov/NCHS/Weekly-Provisional-Counts-of-Deaths-by-State-and-S/muzy-jte6/about_data
