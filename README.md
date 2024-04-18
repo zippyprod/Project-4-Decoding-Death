@@ -46,7 +46,7 @@ For Project 4, our team worked with machine learning (ML) with the other technol
 * One-hot encoding was performed on the "Jurisdiction of Occurrence" column to encode the categorical variables.
 * The dataset was split the into training and testing sets.
 
-## Dependecies
+## Dependencies
 
 - Python Libraries: pandas, numpy, scikit-learn
 - Make sure to install these dependencies using the following command:
