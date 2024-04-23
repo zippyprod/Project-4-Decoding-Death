@@ -21,7 +21,7 @@
 * Paul Ku
 * Jeff Morgan
 
-For Project 4, our team worked with machine learning (ML) packages, we've learned to solve, analyze, and visualize a project decoding opensource information to discover a problem worth solving, analyzing, or visualizing.
+For Project 4, our team worked with machine learning (ML) packages. We've learned to analyze and visualize a project, decoding opensource information to discover a problem worth solving.
 
 ## Please visit our interactive Tableau Visualization
 
@@ -29,7 +29,7 @@ For Project 4, our team worked with machine learning (ML) packages, we've learne
 
 ### Decoding Death
 
-* Our group project attempts to analyze weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the most likely causes of death in each state for 2024.
+* Our group project attempts to analyze weekly provisional counts of deaths by state and select causes for the years 2020-2023. The ultimate goal was to build a regression model to predict the most likely causes of death in each state for 2024. (https://public.tableau.com/app/profile/navdeep.kaur6193/viz/Predictionsforyear2024/Predictionsforyear2024)
 * Our Group stared by working with a Python script using pandas for data manipulation and scikit-learn for machine learning tasks, particularly regression analysis.
 * ![output](image1.png)
 
