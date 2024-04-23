@@ -21,7 +21,7 @@
 * Paul Ku
 * Jeff Morgan
 
-For Project 4, our team worked with machine learning (ML) with the other technologies we've learned solve, analyze, and visualize a project decoding opensource information to discover a problem worth solving, analyzing, or visualizing.
+For Project 4, our team worked with machine learning (ML) packages, we've learned to solve, analyze, and visualize a project decoding opensource information to discover a problem worth solving, analyzing, or visualizing.
 
 ## Please visit our interactive Tableau Visualization
 
